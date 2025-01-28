@@ -51,3 +51,9 @@ response = requests.post(url, json=payload)
 print("Response:", response.json()['response'])
 ```
 ![img.png](ollamaApi.png)
+
+参考链接：
+
+[Ollama 在 Windows 下的安装与配置.md](https://github.com/datawhalechina/handy-ollama/blob/main/docs/C2/2.%20Ollama%20%E5%9C%A8%20Windows%20%E4%B8%8B%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.md)
+
+[自己电脑搭建AI大模型详细教程，支持通义千问、Llama3、接口调用等。](https://mp.weixin.qq.com/s/z28R1ZtESg6BTlWwdjXZnw)
